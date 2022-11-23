@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "942766818126",
+    "firebase_url": "https://intihelp-default-rtdb.firebaseio.com",
+    "project_id": "intihelp",
+    "storage_bucket": "intihelp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942766818126:android:62f010bb5d4d3bc06b941f",
+        "android_client_info": {
+          "package_name": "com.bawp.self"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942766818126-t9bmdca5oca078505tj975hku9t8uh13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqC0hSUuQkCm9QetJws5L2lhNLH92pgrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942766818126-t9bmdca5oca078505tj975hku9t8uh13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942766818126:android:e4e11da8c1ab7e4e6b941f",
+        "android_client_info": {
+          "package_name": "com.example.intihelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942766818126-t9bmdca5oca078505tj975hku9t8uh13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqC0hSUuQkCm9QetJws5L2lhNLH92pgrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942766818126-t9bmdca5oca078505tj975hku9t8uh13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
